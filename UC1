@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 public class OopsBanner{
     public static void main(String[] args){
         // uc1
         System.out.println("OOPS");
 
     }
+=======
+public class OopsBanner{
+    public static void main(String[] args){
+        // uc1
+        System.out.println("OOPS");
+
+    }
+>>>>>>> 5dda55a68e8f1a06e40ce0ab9dbb4333778aeccb
 }
